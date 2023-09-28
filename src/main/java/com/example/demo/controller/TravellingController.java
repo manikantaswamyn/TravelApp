@@ -11,7 +11,7 @@ import com.example.demo.service.TravellingService;
 
 @RestController
 
-//man ikanta
+//manikanta swamy namana
 
 @RequestMapping("/travel")
 public class TravellingController {
