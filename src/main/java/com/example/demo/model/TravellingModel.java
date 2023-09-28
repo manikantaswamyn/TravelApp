@@ -8,7 +8,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+//model
 @Entity
 @Table(name="NEW_TRAVELL")
 public class TravellingModel implements Serializable {
