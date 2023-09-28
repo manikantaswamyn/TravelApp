@@ -10,6 +10,8 @@ import com.example.demo.model.TravellingModel;
 import com.example.demo.service.TravellingService;
 
 @RestController
+
+//jdfjfsjkb
 @RequestMapping("/travel")
 public class TravellingController {
 	
